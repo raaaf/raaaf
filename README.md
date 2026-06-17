@@ -1,23 +1,23 @@
 ### Rafael Alex
 
-Designer & Developer aus Fürth. Seit 20+ Jahren im Web, vom CS-Clan-Auftritt über Agenturen und ein Startup zur Selbstständigkeit.
+Designer & Developer based in Fürth, Germany. 20+ years on the web, from Counter-Strike clan sites through agencies and a startup to going solo.
 
-Websites, Apps und KI-Tools, die verkaufen. Schnell gebaut, von einer Person. Design, Code und Strategie aus einer Hand.
+Websites, apps and AI tools that sell. Built fast, by one person. Design, code and strategy from a single hand.
 
-Zuhören, verstehen, machen. In der Reihenfolge, nicht andersrum.
+Listen, understand, build. In that order, not the other way around.
 
-**Stack:** React · WordPress · iOS/Android nativ · KI-Integration · Home Assistant
+**Stack:** React · WordPress · iOS/Android native · AI integration · Home Assistant
 
-#### Produkte
+#### Products
 
-- **[Zeit](https://zeit.rafaelalex.de)** — Zeiterfassung & Abrechnung für Freelancer. Stunden erfassen, Projekte auf dem Kanban-Board, Ausgaben tracken, Rechnungen nach Stunden-, Fix- oder Retainer-Modell. „Wisse, was dir zusteht. Rechne schneller ab."
-- **[events](https://events.rafaelalex.de)** — Event-Planung ohne WhatsApp-Chaos. Zusagen, Mitbring-Listen, Fahrgemeinschaften und Fotos an einem Ort, ohne Account für Gäste. „Schluss mit WhatsApp-Chaos."
+- **[Zeit](https://zeit.rafaelalex.de)** — Time tracking & invoicing for freelancers. Log hours, organize projects on a Kanban board, track expenses, and bill by hourly, fixed-price or retainer model.
+- **[events](https://events.rafaelalex.de)** — Event planning without the WhatsApp chaos. RSVPs, bring-along lists, carpooling and photo sharing in one place, no account needed for guests.
 
 #### Open Source
 
-- [optimaze-images](https://github.com/raaaf/optimaze-images) — macOS-Bildoptimierer, visuell verlustfrei via SSIMULACRA2
-- [actionbar](https://github.com/raaaf/actionbar) — GitHub-Actions-Runs in der macOS-Menüleiste
-- [BLEDOMController](https://github.com/raaaf/BLEDOMController) — Menüleisten-App für BLEDOM-LED-Strips
-- [starter](https://github.com/raaaf/starter) — eigenes WordPress-Theme-Framework (Blade, Tailwind, Vite)
+- [optimaze-images](https://github.com/raaaf/optimaze-images) — macOS image optimizer, visually lossless via SSIMULACRA2
+- [actionbar](https://github.com/raaaf/actionbar) — GitHub Actions runs in your macOS menu bar
+- [BLEDOMController](https://github.com/raaaf/BLEDOMController) — menu bar app for BLEDOM LED strips
+- [starter](https://github.com/raaaf/starter) — my WordPress theme framework (Blade, Tailwind, Vite)
 
 → [rafaelalex.de](https://rafaelalex.de)
