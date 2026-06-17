@@ -5,7 +5,8 @@
 Websites, apps and AI tools that sell. Built fast, by one person.
 Design, code and strategy from a single hand.
 
-![AI Design](https://img.shields.io/badge/AI%20Design-1a1a1a?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-1a1a1a?style=for-the-badge)
+![Design](https://img.shields.io/badge/Design-1a1a1a?style=for-the-badge)
 ![Branding](https://img.shields.io/badge/Branding-1a1a1a?style=for-the-badge)
 ![Landing Pages](https://img.shields.io/badge/Landing%20Pages-1a1a1a?style=for-the-badge)
 ![WordPress Development](https://img.shields.io/badge/WordPress%20Development-1a1a1a?style=for-the-badge)
