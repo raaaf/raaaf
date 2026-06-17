@@ -3,14 +3,7 @@
 Designer & Developer from Fürth, Germany.<br>
 Websites, apps and AI tools that sell, built by one person.
 
-![AI](https://img.shields.io/badge/AI-1a1a1a?style=for-the-badge)
-![Design](https://img.shields.io/badge/Design-1a1a1a?style=for-the-badge)
-![Branding](https://img.shields.io/badge/Branding-1a1a1a?style=for-the-badge)
-![Landing Pages](https://img.shields.io/badge/Landing%20Pages-1a1a1a?style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-1a1a1a?style=for-the-badge)
-![Development](https://img.shields.io/badge/Development-1a1a1a?style=for-the-badge)
-![Consulting](https://img.shields.io/badge/Consulting-1a1a1a?style=for-the-badge)
-![Smart Home](https://img.shields.io/badge/Smart%20Home-1a1a1a?style=for-the-badge)
+AI · Design · Branding · Landing Pages · WordPress · Development · Consulting · Smart Home
 
 ### Side Projects
 
