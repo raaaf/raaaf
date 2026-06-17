@@ -12,6 +12,7 @@ Websites, apps and AI tools that sell, built by one person.
 ![Consulting](https://img.shields.io/badge/Consulting-1a1a1a?style=for-the-badge)
 ![Smart Home](https://img.shields.io/badge/Smart%20Home-1a1a1a?style=for-the-badge)
 
-**[Zeit](https://zeit.rafaelalex.de)** &nbsp;·&nbsp; Time tracking & invoicing for freelancers
+### Side Projects
 
-**[events](https://events.rafaelalex.de)** &nbsp;·&nbsp; Event planning without the WhatsApp chaos
+- **[Zeit](https://zeit.rafaelalex.de)** &nbsp;·&nbsp; Time tracking & invoicing for freelancers
+- **[events](https://events.rafaelalex.de)** &nbsp;·&nbsp; Event planning without the WhatsApp chaos
