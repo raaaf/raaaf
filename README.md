@@ -14,8 +14,8 @@ Websites, apps and AI tools that sell, built by one person.
 
 ### Side Projects
 
-- **Zeit** &nbsp;·&nbsp; Time tracking & invoicing for freelancers
-- **events** &nbsp;·&nbsp; Event planning without the WhatsApp chaos
+- **[Zeit](https://zeit.rafaelalex.de)** &nbsp;·&nbsp; Time tracking & invoicing for freelancers
+- **[events](https://events.rafaelalex.de)** &nbsp;·&nbsp; Event planning without the WhatsApp chaos
 - **Casa** &nbsp;·&nbsp; Learn English and Spanish as a family, native iOS app
 - **Topf-Secret** &nbsp;·&nbsp; AI cooking assistant: personalized recipes for your kitchen and diet
 - **Henry Companion** &nbsp;·&nbsp; AI voice companion for kids, ask by voice, kid-friendly spoken answers
