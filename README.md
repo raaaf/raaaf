@@ -8,7 +8,12 @@ Zuhören, verstehen, machen. In der Reihenfolge, nicht andersrum.
 
 **Stack:** React · WordPress · iOS/Android nativ · KI-Integration · Home Assistant
 
-#### Ausgewählte Projekte
+#### Produkte
+
+- **[Zeit](https://zeit.rafaelalex.de)** — Zeiterfassung & Abrechnung für Freelancer. Stunden erfassen, Projekte auf dem Kanban-Board, Ausgaben tracken, Rechnungen nach Stunden-, Fix- oder Retainer-Modell. „Wisse, was dir zusteht. Rechne schneller ab."
+- **[events](https://events.rafaelalex.de)** — Event-Planung ohne WhatsApp-Chaos. Zusagen, Mitbring-Listen, Fahrgemeinschaften und Fotos an einem Ort, ohne Account für Gäste. „Schluss mit WhatsApp-Chaos."
+
+#### Open Source
 
 - [optimaze-images](https://github.com/raaaf/optimaze-images) — macOS-Bildoptimierer, visuell verlustfrei via SSIMULACRA2
 - [actionbar](https://github.com/raaaf/actionbar) — GitHub-Actions-Runs in der macOS-Menüleiste
