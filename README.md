@@ -1,6 +1,7 @@
 # Rafael Alex
 
-Designer & Developer from Fürth, Germany. Websites, apps and AI tools that sell, built by one person.
+Designer & Developer from Fürth, Germany.<br>
+Websites, apps and AI tools that sell, built by one person.
 
 ![AI](https://img.shields.io/badge/AI-1a1a1a?style=for-the-badge)
 ![Design](https://img.shields.io/badge/Design-1a1a1a?style=for-the-badge)
