@@ -6,7 +6,7 @@ Websites, apps and AI tools that sell. Built fast, by one person. Design, code a
 
 Listen, understand, build. In that order, not the other way around.
 
-**Stack:** React · WordPress · iOS/Android native · AI integration · Home Assistant
+**Stack:** PHP/Laravel · WordPress · Web · Mobile · Design · Branding · AI · Home Assistant
 
 #### Products
 
